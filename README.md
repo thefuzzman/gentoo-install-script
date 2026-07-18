@@ -1,3 +1,6 @@
+#####   USE THE FILE NAMED gentoo-kde-install.sh   #####
+
+
 # gentoo-install-script
 Gentoo with OpenRC and luks encryption on Plasma
 
